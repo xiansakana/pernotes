@@ -1,0 +1,81 @@
+"filename", "language", "JSON with Comments", "Markdown", "TypeScript", "JavaScript", "XML", "JSON", "TypeScript JSX", "CSS", "comment", "blank", "total"
+"d:\study\Next.js\notion-clone\.eslintrc.json", "JSON with Comments", 3, 0, 0, 0, 0, 0, 0, 0, 0, 1, 4
+"d:\study\Next.js\notion-clone\README.md", "Markdown", 0, 23, 0, 0, 0, 0, 0, 0, 0, 14, 37
+"d:\study\Next.js\notion-clone\app\(main)\(routes)\documents\[documentId]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 58, 0, 0, 12, 70
+"d:\study\Next.js\notion-clone\app\(main)\(routes)\documents\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 50, 0, 0, 8, 58
+"d:\study\Next.js\notion-clone\app\(main)\_components\banner.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 55, 0, 0, 12, 67
+"d:\study\Next.js\notion-clone\app\(main)\_components\document-list.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 81, 0, 0, 11, 92
+"d:\study\Next.js\notion-clone\app\(main)\_components\item.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 170, 0, 0, 13, 183
+"d:\study\Next.js\notion-clone\app\(main)\_components\menu.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 61, 0, 0, 11, 72
+"d:\study\Next.js\notion-clone\app\(main)\_components\navbar.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 54, 0, 0, 10, 64
+"d:\study\Next.js\notion-clone\app\(main)\_components\navigation.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 187, 0, 0, 21, 208
+"d:\study\Next.js\notion-clone\app\(main)\_components\publish.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 121, 0, 0, 16, 137
+"d:\study\Next.js\notion-clone\app\(main)\_components\title.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 68, 0, 0, 12, 80
+"d:\study\Next.js\notion-clone\app\(main)\_components\trash-box.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 100, 0, 0, 14, 114
+"d:\study\Next.js\notion-clone\app\(main)\_components\user-item.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 66, 0, 0, 5, 71
+"d:\study\Next.js\notion-clone\app\(main)\layout.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 29, 0, 0, 9, 38
+"d:\study\Next.js\notion-clone\app\(marketing)\_components\footer.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 17, 0, 1, 2, 20
+"d:\study\Next.js\notion-clone\app\(marketing)\_components\heading.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 43, 0, 0, 6, 49
+"d:\study\Next.js\notion-clone\app\(marketing)\_components\heroes.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 37, 0, 0, 2, 39
+"d:\study\Next.js\notion-clone\app\(marketing)\_components\logo.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 28, 0, 0, 4, 32
+"d:\study\Next.js\notion-clone\app\(marketing)\_components\navbar.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 48, 0, 0, 4, 52
+"d:\study\Next.js\notion-clone\app\(marketing)\layout.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 10, 0, 0, 3, 13
+"d:\study\Next.js\notion-clone\app\(marketing)\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 15, 0, 0, 3, 18
+"d:\study\Next.js\notion-clone\app\(public)\(routes)\preview\[documentId]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 62, 0, 0, 12, 74
+"d:\study\Next.js\notion-clone\app\api\edgestore\[...edgestore]\route.ts", "TypeScript", 0, 0, 13, 0, 0, 0, 0, 0, 6, 1, 20
+"d:\study\Next.js\notion-clone\app\error.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 29, 0, 0, 5, 34
+"d:\study\Next.js\notion-clone\app\globals.css", "CSS", 0, 0, 0, 0, 0, 0, 0, 61, 0, 22, 83
+"d:\study\Next.js\notion-clone\app\layout.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 54, 0, 0, 6, 60
+"d:\study\Next.js\notion-clone\components.json", "JSON", 0, 0, 0, 0, 0, 16, 0, 0, 0, 0, 16
+"d:\study\Next.js\notion-clone\components\cover.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 68, 0, 0, 8, 76
+"d:\study\Next.js\notion-clone\components\editor.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 40, 0, 0, 10, 50
+"d:\study\Next.js\notion-clone\components\icon-picker.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 38, 0, 0, 8, 46
+"d:\study\Next.js\notion-clone\components\modals\confirm-modal.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 45, 0, 0, 5, 50
+"d:\study\Next.js\notion-clone\components\modals\cover-image-modal.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 55, 0, 0, 11, 66
+"d:\study\Next.js\notion-clone\components\modals\settings-modal.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 26, 0, 0, 4, 30
+"d:\study\Next.js\notion-clone\components\mode-toggle.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 36, 0, 0, 5, 41
+"d:\study\Next.js\notion-clone\components\providers\convex-provider.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 17, 0, 0, 4, 21
+"d:\study\Next.js\notion-clone\components\providers\modal-provider.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 19, 0, 0, 7, 26
+"d:\study\Next.js\notion-clone\components\providers\theme-provider.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 7, 0, 0, 3, 10
+"d:\study\Next.js\notion-clone\components\search-command.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 70, 0, 0, 11, 81
+"d:\study\Next.js\notion-clone\components\single-image-dropzone.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 135, 0, 77, 14, 226
+"d:\study\Next.js\notion-clone\components\spinner.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 20, 0, 0, 6, 26
+"d:\study\Next.js\notion-clone\components\toolbar.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 121, 0, 0, 16, 137
+"d:\study\Next.js\notion-clone\components\ui\alert-dialog.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 127, 0, 0, 15, 142
+"d:\study\Next.js\notion-clone\components\ui\avatar.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 44, 0, 0, 7, 51
+"d:\study\Next.js\notion-clone\components\ui\button.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 51, 0, 0, 6, 57
+"d:\study\Next.js\notion-clone\components\ui\command.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 137, 0, 0, 19, 156
+"d:\study\Next.js\notion-clone\components\ui\dialog.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 107, 0, 0, 13, 120
+"d:\study\Next.js\notion-clone\components\ui\dropdown-menu.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 182, 0, 0, 19, 201
+"d:\study\Next.js\notion-clone\components\ui\input.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 21, 0, 0, 5, 26
+"d:\study\Next.js\notion-clone\components\ui\label.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 21, 0, 0, 6, 27
+"d:\study\Next.js\notion-clone\components\ui\popover.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 25, 0, 0, 7, 32
+"d:\study\Next.js\notion-clone\components\ui\skeleton.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 13, 0, 0, 3, 16
+"d:\study\Next.js\notion-clone\convex\README.md", "Markdown", 0, 73, 0, 0, 0, 0, 0, 0, 0, 18, 91
+"d:\study\Next.js\notion-clone\convex\_generated\api.d.ts", "TypeScript", 0, 0, 17, 0, 0, 0, 0, 0, 18, 3, 38
+"d:\study\Next.js\notion-clone\convex\_generated\api.js", "JavaScript", 0, 0, 0, 3, 0, 0, 0, 0, 18, 3, 24
+"d:\study\Next.js\notion-clone\convex\_generated\dataModel.d.ts", "TypeScript", 0, 0, 16, 0, 0, 0, 0, 0, 40, 6, 62
+"d:\study\Next.js\notion-clone\convex\_generated\server.d.ts", "TypeScript", 0, 0, 24, 0, 0, 0, 0, 0, 106, 14, 144
+"d:\study\Next.js\notion-clone\convex\_generated\server.js", "JavaScript", 0, 0, 0, 16, 0, 0, 0, 0, 66, 9, 91
+"d:\study\Next.js\notion-clone\convex\auth.config.js", "JavaScript", 0, 0, 0, 8, 0, 0, 0, 0, 0, 1, 9
+"d:\study\Next.js\notion-clone\convex\documents.ts", "TypeScript", 0, 0, 267, 0, 0, 0, 0, 0, 0, 89, 356
+"d:\study\Next.js\notion-clone\convex\schema.ts", "TypeScript", 0, 0, 16, 0, 0, 0, 0, 0, 0, 2, 18
+"d:\study\Next.js\notion-clone\convex\tsconfig.json", "JSON with Comments", 17, 0, 0, 0, 0, 0, 0, 0, 6, 2, 25
+"d:\study\Next.js\notion-clone\hooks\use-cover-image.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 15, 0, 0, 3, 18
+"d:\study\Next.js\notion-clone\hooks\use-origin.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 15, 0, 0, 5, 20
+"d:\study\Next.js\notion-clone\hooks\use-scroll-top.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 16, 0, 0, 5, 21
+"d:\study\Next.js\notion-clone\hooks\use-search.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 13, 0, 0, 3, 16
+"d:\study\Next.js\notion-clone\hooks\use-settings.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 11, 0, 0, 3, 14
+"d:\study\Next.js\notion-clone\lib\edgestore.ts", "TypeScript", 0, 0, 6, 0, 0, 0, 0, 0, 0, 1, 7
+"d:\study\Next.js\notion-clone\lib\utils.ts", "TypeScript", 0, 0, 5, 0, 0, 0, 0, 0, 0, 2, 7
+"d:\study\Next.js\notion-clone\next.config.js", "JavaScript", 0, 0, 0, 6, 0, 0, 0, 0, 1, 2, 9
+"d:\study\Next.js\notion-clone\package-lock.json", "JSON", 0, 0, 0, 0, 0, 11736, 0, 0, 0, 1, 11737
+"d:\study\Next.js\notion-clone\package.json", "JSON", 0, 0, 0, 0, 0, 56, 0, 0, 0, 1, 57
+"d:\study\Next.js\notion-clone\postcss.config.js", "JavaScript", 0, 0, 0, 6, 0, 0, 0, 0, 0, 1, 7
+"d:\study\Next.js\notion-clone\public\logo-dark.svg", "XML", 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1
+"d:\study\Next.js\notion-clone\public\logo.svg", "XML", 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1
+"d:\study\Next.js\notion-clone\public\next.svg", "XML", 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1
+"d:\study\Next.js\notion-clone\public\vercel.svg", "XML", 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1
+"d:\study\Next.js\notion-clone\tailwind.config.ts", "TypeScript", 0, 0, 75, 0, 0, 0, 0, 0, 1, 0, 76
+"d:\study\Next.js\notion-clone\tsconfig.json", "JSON with Comments", 25, 0, 0, 0, 0, 0, 0, 0, 2, 1, 28
+"Total", "-", 45, 96, 439, 39, 4, 11808, 2938, 61, 342, 626, 16398

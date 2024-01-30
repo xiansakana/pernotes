@@ -1,0 +1,141 @@
+Date : 2023-12-13 21:23:43
+Directory : d:\study\Next.js\notion-clone
+Total : 79 files,  15430 codes, 342 comments, 626 blanks, all 16398 lines
+
+Languages
++--------------------+------------+------------+------------+------------+------------+
+| language           | files      | code       | comment    | blank      | total      |
++--------------------+------------+------------+------------+------------+------------+
+| JSON               |          3 |     11,808 |          0 |          2 |     11,810 |
+| TypeScript JSX     |         52 |      2,938 |         78 |        432 |      3,448 |
+| TypeScript         |          9 |        439 |        171 |        118 |        728 |
+| Markdown           |          2 |         96 |          0 |         32 |        128 |
+| CSS                |          1 |         61 |          0 |         22 |         83 |
+| JSON with Comments |          3 |         45 |          8 |          4 |         57 |
+| JavaScript         |          5 |         39 |         85 |         16 |        140 |
+| XML                |          4 |          4 |          0 |          0 |          4 |
++--------------------+------------+------------+------------+------------+------------+
+
+Directories
++-----------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                              | files      | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                 |         79 |     15,430 |        342 |        626 |     16,398 |
+| . (Files)                                                                         |          9 |     11,946 |          4 |         21 |     11,971 |
+| app                                                                               |         25 |      1,517 |          7 |        224 |      1,748 |
+| app (Files)                                                                       |          3 |        144 |          0 |         33 |        177 |
+| app\(main)                                                                        |         13 |      1,100 |          0 |        154 |      1,254 |
+| app\(main) (Files)                                                                |          1 |         29 |          0 |          9 |         38 |
+| app\(main)\(routes)                                                               |          2 |        108 |          0 |         20 |        128 |
+| app\(main)\(routes)\documents                                                     |          2 |        108 |          0 |         20 |        128 |
+| app\(main)\(routes)\documents (Files)                                             |          1 |         50 |          0 |          8 |         58 |
+| app\(main)\(routes)\documents\[documentId]                                        |          1 |         58 |          0 |         12 |         70 |
+| app\(main)\_components                                                            |         10 |        963 |          0 |        125 |      1,088 |
+| app\(marketing)                                                                   |          7 |        198 |          1 |         24 |        223 |
+| app\(marketing) (Files)                                                           |          2 |         25 |          0 |          6 |         31 |
+| app\(marketing)\_components                                                       |          5 |        173 |          1 |         18 |        192 |
+| app\(public)                                                                      |          1 |         62 |          0 |         12 |         74 |
+| app\(public)\(routes)                                                             |          1 |         62 |          0 |         12 |         74 |
+| app\(public)\(routes)\preview                                                     |          1 |         62 |          0 |         12 |         74 |
+| app\(public)\(routes)\preview\[documentId]                                        |          1 |         62 |          0 |         12 |         74 |
+| app\api                                                                           |          1 |         13 |          6 |          1 |         20 |
+| app\api\edgestore                                                                 |          1 |         13 |          6 |          1 |         20 |
+| app\api\edgestore\[...edgestore]                                                  |          1 |         13 |          6 |          1 |         20 |
+| components                                                                        |         24 |      1,425 |         77 |        212 |      1,714 |
+| components (Files)                                                                |          8 |        528 |         77 |         78 |        683 |
+| components\modals                                                                 |          3 |        126 |          0 |         20 |        146 |
+| components\providers                                                              |          3 |         43 |          0 |         14 |         57 |
+| components\ui                                                                     |         10 |        728 |          0 |        100 |        828 |
+| convex                                                                            |         10 |        457 |        254 |        147 |        858 |
+| convex (Files)                                                                    |          5 |        381 |          6 |        112 |        499 |
+| convex\_generated                                                                 |          5 |         76 |        248 |         35 |        359 |
+| hooks                                                                             |          5 |         70 |          0 |         19 |         89 |
+| lib                                                                               |          2 |         11 |          0 |          3 |         14 |
+| public                                                                            |          4 |          4 |          0 |          0 |          4 |
++-----------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-----------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| filename                                                                          | language           | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| d:\study\Next.js\notion-clone\.eslintrc.json                                      | JSON with Comments |          3 |          0 |          1 |          4 |
+| d:\study\Next.js\notion-clone\README.md                                           | Markdown           |         23 |          0 |         14 |         37 |
+| d:\study\Next.js\notion-clone\app\(main)\(routes)\documents\[documentId]\page.tsx | TypeScript JSX     |         58 |          0 |         12 |         70 |
+| d:\study\Next.js\notion-clone\app\(main)\(routes)\documents\page.tsx              | TypeScript JSX     |         50 |          0 |          8 |         58 |
+| d:\study\Next.js\notion-clone\app\(main)\_components\banner.tsx                   | TypeScript JSX     |         55 |          0 |         12 |         67 |
+| d:\study\Next.js\notion-clone\app\(main)\_components\document-list.tsx            | TypeScript JSX     |         81 |          0 |         11 |         92 |
+| d:\study\Next.js\notion-clone\app\(main)\_components\item.tsx                     | TypeScript JSX     |        170 |          0 |         13 |        183 |
+| d:\study\Next.js\notion-clone\app\(main)\_components\menu.tsx                     | TypeScript JSX     |         61 |          0 |         11 |         72 |
+| d:\study\Next.js\notion-clone\app\(main)\_components\navbar.tsx                   | TypeScript JSX     |         54 |          0 |         10 |         64 |
+| d:\study\Next.js\notion-clone\app\(main)\_components\navigation.tsx               | TypeScript JSX     |        187 |          0 |         21 |        208 |
+| d:\study\Next.js\notion-clone\app\(main)\_components\publish.tsx                  | TypeScript JSX     |        121 |          0 |         16 |        137 |
+| d:\study\Next.js\notion-clone\app\(main)\_components\title.tsx                    | TypeScript JSX     |         68 |          0 |         12 |         80 |
+| d:\study\Next.js\notion-clone\app\(main)\_components\trash-box.tsx                | TypeScript JSX     |        100 |          0 |         14 |        114 |
+| d:\study\Next.js\notion-clone\app\(main)\_components\user-item.tsx                | TypeScript JSX     |         66 |          0 |          5 |         71 |
+| d:\study\Next.js\notion-clone\app\(main)\layout.tsx                               | TypeScript JSX     |         29 |          0 |          9 |         38 |
+| d:\study\Next.js\notion-clone\app\(marketing)\_components\footer.tsx              | TypeScript JSX     |         17 |          1 |          2 |         20 |
+| d:\study\Next.js\notion-clone\app\(marketing)\_components\heading.tsx             | TypeScript JSX     |         43 |          0 |          6 |         49 |
+| d:\study\Next.js\notion-clone\app\(marketing)\_components\heroes.tsx              | TypeScript JSX     |         37 |          0 |          2 |         39 |
+| d:\study\Next.js\notion-clone\app\(marketing)\_components\logo.tsx                | TypeScript JSX     |         28 |          0 |          4 |         32 |
+| d:\study\Next.js\notion-clone\app\(marketing)\_components\navbar.tsx              | TypeScript JSX     |         48 |          0 |          4 |         52 |
+| d:\study\Next.js\notion-clone\app\(marketing)\layout.tsx                          | TypeScript JSX     |         10 |          0 |          3 |         13 |
+| d:\study\Next.js\notion-clone\app\(marketing)\page.tsx                            | TypeScript JSX     |         15 |          0 |          3 |         18 |
+| d:\study\Next.js\notion-clone\app\(public)\(routes)\preview\[documentId]\page.tsx | TypeScript JSX     |         62 |          0 |         12 |         74 |
+| d:\study\Next.js\notion-clone\app\api\edgestore\[...edgestore]\route.ts           | TypeScript         |         13 |          6 |          1 |         20 |
+| d:\study\Next.js\notion-clone\app\error.tsx                                       | TypeScript JSX     |         29 |          0 |          5 |         34 |
+| d:\study\Next.js\notion-clone\app\globals.css                                     | CSS                |         61 |          0 |         22 |         83 |
+| d:\study\Next.js\notion-clone\app\layout.tsx                                      | TypeScript JSX     |         54 |          0 |          6 |         60 |
+| d:\study\Next.js\notion-clone\components.json                                     | JSON               |         16 |          0 |          0 |         16 |
+| d:\study\Next.js\notion-clone\components\cover.tsx                                | TypeScript JSX     |         68 |          0 |          8 |         76 |
+| d:\study\Next.js\notion-clone\components\editor.tsx                               | TypeScript JSX     |         40 |          0 |         10 |         50 |
+| d:\study\Next.js\notion-clone\components\icon-picker.tsx                          | TypeScript JSX     |         38 |          0 |          8 |         46 |
+| d:\study\Next.js\notion-clone\components\modals\confirm-modal.tsx                 | TypeScript JSX     |         45 |          0 |          5 |         50 |
+| d:\study\Next.js\notion-clone\components\modals\cover-image-modal.tsx             | TypeScript JSX     |         55 |          0 |         11 |         66 |
+| d:\study\Next.js\notion-clone\components\modals\settings-modal.tsx                | TypeScript JSX     |         26 |          0 |          4 |         30 |
+| d:\study\Next.js\notion-clone\components\mode-toggle.tsx                          | TypeScript JSX     |         36 |          0 |          5 |         41 |
+| d:\study\Next.js\notion-clone\components\providers\convex-provider.tsx            | TypeScript JSX     |         17 |          0 |          4 |         21 |
+| d:\study\Next.js\notion-clone\components\providers\modal-provider.tsx             | TypeScript JSX     |         19 |          0 |          7 |         26 |
+| d:\study\Next.js\notion-clone\components\providers\theme-provider.tsx             | TypeScript JSX     |          7 |          0 |          3 |         10 |
+| d:\study\Next.js\notion-clone\components\search-command.tsx                       | TypeScript JSX     |         70 |          0 |         11 |         81 |
+| d:\study\Next.js\notion-clone\components\single-image-dropzone.tsx                | TypeScript JSX     |        135 |         77 |         14 |        226 |
+| d:\study\Next.js\notion-clone\components\spinner.tsx                              | TypeScript JSX     |         20 |          0 |          6 |         26 |
+| d:\study\Next.js\notion-clone\components\toolbar.tsx                              | TypeScript JSX     |        121 |          0 |         16 |        137 |
+| d:\study\Next.js\notion-clone\components\ui\alert-dialog.tsx                      | TypeScript JSX     |        127 |          0 |         15 |        142 |
+| d:\study\Next.js\notion-clone\components\ui\avatar.tsx                            | TypeScript JSX     |         44 |          0 |          7 |         51 |
+| d:\study\Next.js\notion-clone\components\ui\button.tsx                            | TypeScript JSX     |         51 |          0 |          6 |         57 |
+| d:\study\Next.js\notion-clone\components\ui\command.tsx                           | TypeScript JSX     |        137 |          0 |         19 |        156 |
+| d:\study\Next.js\notion-clone\components\ui\dialog.tsx                            | TypeScript JSX     |        107 |          0 |         13 |        120 |
+| d:\study\Next.js\notion-clone\components\ui\dropdown-menu.tsx                     | TypeScript JSX     |        182 |          0 |         19 |        201 |
+| d:\study\Next.js\notion-clone\components\ui\input.tsx                             | TypeScript JSX     |         21 |          0 |          5 |         26 |
+| d:\study\Next.js\notion-clone\components\ui\label.tsx                             | TypeScript JSX     |         21 |          0 |          6 |         27 |
+| d:\study\Next.js\notion-clone\components\ui\popover.tsx                           | TypeScript JSX     |         25 |          0 |          7 |         32 |
+| d:\study\Next.js\notion-clone\components\ui\skeleton.tsx                          | TypeScript JSX     |         13 |          0 |          3 |         16 |
+| d:\study\Next.js\notion-clone\convex\README.md                                    | Markdown           |         73 |          0 |         18 |         91 |
+| d:\study\Next.js\notion-clone\convex\_generated\api.d.ts                          | TypeScript         |         17 |         18 |          3 |         38 |
+| d:\study\Next.js\notion-clone\convex\_generated\api.js                            | JavaScript         |          3 |         18 |          3 |         24 |
+| d:\study\Next.js\notion-clone\convex\_generated\dataModel.d.ts                    | TypeScript         |         16 |         40 |          6 |         62 |
+| d:\study\Next.js\notion-clone\convex\_generated\server.d.ts                       | TypeScript         |         24 |        106 |         14 |        144 |
+| d:\study\Next.js\notion-clone\convex\_generated\server.js                         | JavaScript         |         16 |         66 |          9 |         91 |
+| d:\study\Next.js\notion-clone\convex\auth.config.js                               | JavaScript         |          8 |          0 |          1 |          9 |
+| d:\study\Next.js\notion-clone\convex\documents.ts                                 | TypeScript         |        267 |          0 |         89 |        356 |
+| d:\study\Next.js\notion-clone\convex\schema.ts                                    | TypeScript         |         16 |          0 |          2 |         18 |
+| d:\study\Next.js\notion-clone\convex\tsconfig.json                                | JSON with Comments |         17 |          6 |          2 |         25 |
+| d:\study\Next.js\notion-clone\hooks\use-cover-image.tsx                           | TypeScript JSX     |         15 |          0 |          3 |         18 |
+| d:\study\Next.js\notion-clone\hooks\use-origin.tsx                                | TypeScript JSX     |         15 |          0 |          5 |         20 |
+| d:\study\Next.js\notion-clone\hooks\use-scroll-top.tsx                            | TypeScript JSX     |         16 |          0 |          5 |         21 |
+| d:\study\Next.js\notion-clone\hooks\use-search.tsx                                | TypeScript JSX     |         13 |          0 |          3 |         16 |
+| d:\study\Next.js\notion-clone\hooks\use-settings.tsx                              | TypeScript JSX     |         11 |          0 |          3 |         14 |
+| d:\study\Next.js\notion-clone\lib\edgestore.ts                                    | TypeScript         |          6 |          0 |          1 |          7 |
+| d:\study\Next.js\notion-clone\lib\utils.ts                                        | TypeScript         |          5 |          0 |          2 |          7 |
+| d:\study\Next.js\notion-clone\next.config.js                                      | JavaScript         |          6 |          1 |          2 |          9 |
+| d:\study\Next.js\notion-clone\package-lock.json                                   | JSON               |     11,736 |          0 |          1 |     11,737 |
+| d:\study\Next.js\notion-clone\package.json                                        | JSON               |         56 |          0 |          1 |         57 |
+| d:\study\Next.js\notion-clone\postcss.config.js                                   | JavaScript         |          6 |          0 |          1 |          7 |
+| d:\study\Next.js\notion-clone\public\logo-dark.svg                                | XML                |          1 |          0 |          0 |          1 |
+| d:\study\Next.js\notion-clone\public\logo.svg                                     | XML                |          1 |          0 |          0 |          1 |
+| d:\study\Next.js\notion-clone\public\next.svg                                     | XML                |          1 |          0 |          0 |          1 |
+| d:\study\Next.js\notion-clone\public\vercel.svg                                   | XML                |          1 |          0 |          0 |          1 |
+| d:\study\Next.js\notion-clone\tailwind.config.ts                                  | TypeScript         |         75 |          1 |          0 |         76 |
+| d:\study\Next.js\notion-clone\tsconfig.json                                       | JSON with Comments |         25 |          2 |          1 |         28 |
+| Total                                                                             |                    |     15,430 |        342 |        626 |     16,398 |
++-----------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+

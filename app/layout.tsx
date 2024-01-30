@@ -12,19 +12,19 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Jotion",
-  description: "The connected workspace where better, faster work happens.",
+  title: "Pernotes",
+  description: "A free and simple personal notebooks.",
   icons: {
     icon: [
       {
         media: "(prefers-color-scheme: light)",
-        url: "/logo.svg",
-        href: "/logo.svg",
+        url: "/letter-p-blue.svg",
+        href: "/letter-p-blue.svg",
       },
       {
         media: "(prefers-color-scheme: dark)",
-        url: "/logo-dark.svg",
-        href: "/logo-dark.svg",
+        url: "/letter-p-blue.svg",
+        href: "/letter-p-blue.svg",
       },
     ],
   },
